@@ -90,3 +90,13 @@ java -ea TestPizzaTrack
 ## 👤 Autor
 
 Daiver Andrés — Estructura de Datos, Segundo Semestre, IU Digital.
+## 📸 Capturas de pantalla
+
+### Menú principal
+![Menú principal](capturas/Captura%201.PNG)
+
+### Registro de pedido
+![Registro de pedido](capturas/Captura%202.PNG)
+
+### Ciclo Undo/Redo
+![Ciclo Undo/Redo](capturas/Captura%203.PNG)
